@@ -4,8 +4,8 @@
 
 ## 1장 - 아나콘다,텐서플로우,케라스 install
 
-## 2장 - pythonbase
+## 2장 - pythonbase/pythonbase.md
 
-## 3장 - graph
+## 3장 - graph/graph.md
 
-## 4장 - math
+## 4장 - math/math.md
